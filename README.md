@@ -3,7 +3,7 @@
 X (Twitter) accounts blocked from the DoorDab / Sullen Teens whitelist: bot farms and sybil accounts, caught by shared
 IPs, shared wallets, X accounts made minutes apart and order bursts, then reviewed and blocked by hand.
 
-- `blocklist.csv`: one row per blocked account (503 accounts).
+- `blocklist.csv`: one row per blocked account (521 accounts).
 - `blocklist.txt`: just the handles, one per line.
 
 | column | |
